@@ -25,6 +25,8 @@ The project is organized as follows:
 2. **Install Dependencies:** Install the necessary libraries using the provided code cells in the notebook.
 3. **Run the Code:** Execute the code cells in the notebook sequentially to understand the steps involved in sentiment analysis with BERT.
 4. **Explore the Datasets:** Examine the `IMDB Dataset.csv` and `train.csv` files to understand the data used for sentiment analysis.
+   - **IMDB Dataset:** This dataset contains 50,000 movie reviews for English sentiment analysis. It can be downloaded from Kaggle: [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
+   - **train.csv:** This file, included in this repository, contains Arabic tweets labeled for sentiment analysis tasks. You can find it directly in the repository.
 
 ## Model Selection 🧠
 
